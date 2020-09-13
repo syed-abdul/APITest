@@ -1,0 +1,28 @@
+{
+"App name"     :"Red bus",
+"Username"     : "syedabdul",
+"Password"     : "syed124",
+"From"         : "paramakudi",
+"To"           : "chennai",
+"Depart"       : "03/10/2020",
+"Return"       : "05/11/2020",
+"Trip"         : "Round way",
+"Travel Class" : "bussiness class",
+"Adult"        : "3-three",
+"Economy"      : "first",
+"Children"     : "2-two",
+"Infants"      : "1-0ne",
+"Address"      : "3/358 mohamed ali street",
+"Pincode"      : "623707",
+"DepTimeing"   : "9Pm to 6am",
+"Price"        : "1000",
+"Duration"     : "9hr",
+"First name"   : "syed",
+"Last name"    : "abdul",
+"Limit"        : "80kg",
+"Total Member" :  "6-Six"    ,
+"Payment"      : "online Payment",
+"Booking"      : "yes"
+}
+
+
